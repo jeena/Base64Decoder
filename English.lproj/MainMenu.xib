@@ -13,7 +13,7 @@
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
 			<integer value="29"/>
-			<integer value="543"/>
+			<integer value="371"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -1422,7 +1422,7 @@
 																	<string>public.url</string>
 																</object>
 															</object>
-															<string key="NSFrameSize">{513, 378}</string>
+															<string key="NSFrame">{{0, 245}, {513, 133}}</string>
 															<reference key="NSSuperview" ref="114281336"/>
 															<object class="NSTextContainer" key="NSTextContainer" id="899712938">
 																<object class="NSLayoutManager" key="NSLayoutManager">
@@ -1560,6 +1560,7 @@
 				</object>
 				<string key="NSScreenRect">{{0, 0}, {1920, 1178}}</string>
 				<string key="NSMaxSize">{1.79769e+308, 1.79769e+308}</string>
+				<string key="NSFrameAutosaveName">base64decoder</string>
 			</object>
 			<object class="NSCustomObject" id="976324537">
 				<string key="NSClassName">Base64DecoderAppDelegate</string>

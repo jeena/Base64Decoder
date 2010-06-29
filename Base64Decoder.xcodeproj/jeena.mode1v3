@@ -228,6 +228,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -270,8 +272,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>5</integer>
-									<integer>1</integer>
+									<integer>10</integer>
+									<integer>7</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -306,8 +308,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -325,11 +325,11 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>1FE6F30211D9F7ED006101E7</string>
+										<string>1FE6F31D11D9F9A2006101E7</string>
 										<key>history</key>
 										<array>
 											<string>1FE6F30011D9F7ED006101E7</string>
-											<string>1FE6F30111D9F7ED006101E7</string>
+											<string>1FE6F30C11D9F971006101E7</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -387,9 +387,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>1FE6F2E211D9EDF7006101E7</string>
+				<string>1FE6F31E11D9F9A2006101E7</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>1FE6F2E311D9EDF7006101E7</string>
+				<string>1FE6F31F11D9F9A2006101E7</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -527,11 +527,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1FE6F30A11D9F7ED006101E7</string>
-		<string>1FE6F30B11D9F7ED006101E7</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
-		<string>1C530D57069F1CE1000CFCEE</string>
 		<string>1FE6F2E511D9EDF7006101E7</string>
 		<string>/Users/jeena/Desktop/Base64Decoder/Base64Decoder.xcodeproj</string>
 	</array>
@@ -613,7 +608,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1FE6F2E511D9EDF7006101E7</string>
-				<string>1FE6F2E611D9EDF7006101E7</string>
+				<string>1FE6F32011D9F9A2006101E7</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
