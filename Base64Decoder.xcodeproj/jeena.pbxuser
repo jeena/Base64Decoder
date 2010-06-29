@@ -1,0 +1,143 @@
+// !$*UTF8*$!
+{
+	1FE6F2D511D9EDF1006101E7 /* Base64Decoder */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Base64Decoder;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1FE6F2E711D9EDF7006101E7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1FE6F2E811D9EDF7006101E7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1FE6F30011D9F7ED006101E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* Base64DecoderAppDelegate.h */;
+		name = "Base64DecoderAppDelegate.h: 21";
+		rLen = 11;
+		rLoc = 493;
+		rType = 0;
+		vrLen = 512;
+		vrLoc = 0;
+	};
+	1FE6F30111D9F7ED006101E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* Base64DecoderAppDelegate.m */;
+		name = "Base64DecoderAppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 451;
+		rType = 0;
+		vrLen = 543;
+		vrLoc = 0;
+	};
+	1FE6F30211D9F7ED006101E7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* Base64DecoderAppDelegate.m */;
+		name = "Base64DecoderAppDelegate.m: 22";
+		rLen = 0;
+		rLoc = 570;
+		rType = 0;
+		vrLen = 676;
+		vrLoc = 0;
+	};
+	256AC3D80F4B6AC300CF3369 /* Base64DecoderAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 403}}";
+			sepNavSelRange = "{493, 11}";
+			sepNavVisRange = "{0, 512}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* Base64DecoderAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {649, 474}}";
+			sepNavSelRange = "{570, 0}";
+			sepNavVisRange = "{0, 676}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 1FE6F2D511D9EDF1006101E7 /* Base64Decoder */;
+		activeTarget = 8D1107260486CEB800E47090 /* Base64Decoder */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Base64Decoder */,
+		);
+		codeSenseManager = 1FE6F2E811D9EDF7006101E7 /* Code sense */;
+		executables = (
+			1FE6F2D511D9EDF1006101E7 /* Base64Decoder */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 299494897;
+			PBXWorkspaceStateSaveDate = 299494897;
+		};
+		perUserProjectItems = {
+			1FE6F30011D9F7ED006101E7 /* PBXTextBookmark */ = 1FE6F30011D9F7ED006101E7 /* PBXTextBookmark */;
+			1FE6F30111D9F7ED006101E7 /* PBXTextBookmark */ = 1FE6F30111D9F7ED006101E7 /* PBXTextBookmark */;
+			1FE6F30211D9F7ED006101E7 /* PBXTextBookmark */ = 1FE6F30211D9F7ED006101E7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1FE6F2E711D9EDF7006101E7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Base64Decoder */ = {
+		activeExec = 0;
+		executables = (
+			1FE6F2D511D9EDF1006101E7 /* Base64Decoder */,
+		);
+	};
+}
