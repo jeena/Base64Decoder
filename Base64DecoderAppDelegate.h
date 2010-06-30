@@ -5,6 +5,7 @@
 //  Created by Jeena on 29.06.10.
 //  Copyright 2010 Jeena Paradies. All rights reserved.
 //
+//  The icon is from http://tutorialagent.com/best-photoshop-tutorials/photoshop-3d-metal-box-logo-icon
 
 #import <Cocoa/Cocoa.h>
 
