@@ -325,7 +325,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>1FE6F31D11D9F9A2006101E7</string>
+										<string>1FE6F32911D9FA48006101E7</string>
 										<key>history</key>
 										<array>
 											<string>1FE6F30011D9F7ED006101E7</string>
@@ -527,6 +527,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>1FE6F33111D9FA48006101E7</string>
+		<string>1FE6F33211D9FA48006101E7</string>
+		<string>1C78EAAD065D492600B07095</string>
+		<string>1CD10A99069EF8BA00B06720</string>
 		<string>1FE6F2E511D9EDF7006101E7</string>
 		<string>/Users/jeena/Desktop/Base64Decoder/Base64Decoder.xcodeproj</string>
 	</array>
@@ -652,8 +656,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 185}}</string>
-											<string>{{316, 0}, {378, 185}}</string>
+											<string>{{0, 0}, {316, 194}}</string>
+											<string>{{316, 0}, {378, 194}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -668,8 +672,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 185}}</string>
-											<string>{{0, 185}, {694, 196}}</string>
+											<string>{{0, 0}, {694, 194}}</string>
+											<string>{{0, 194}, {694, 187}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -702,7 +706,7 @@
 										<real>148</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 185}}</string>
+									<string>{{316, 0}, {378, 194}}</string>
 									<key>RubberWindowFrame</key>
 									<string>1100 707 694 422 0 0 1920 1178 </string>
 								</dict>
@@ -730,13 +734,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>1FE6F30311D9F7ED006101E7</string>
+				<string>1FE6F32A11D9FA48006101E7</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>1FE6F30411D9F7ED006101E7</string>
-				<string>1FE6F30511D9F7ED006101E7</string>
-				<string>1FE6F30611D9F7ED006101E7</string>
-				<string>1FE6F30711D9F7ED006101E7</string>
-				<string>1FE6F30811D9F7ED006101E7</string>
+				<string>1FE6F32B11D9FA48006101E7</string>
+				<string>1FE6F32C11D9FA48006101E7</string>
+				<string>1FE6F32D11D9FA48006101E7</string>
+				<string>1FE6F32E11D9FA48006101E7</string>
+				<string>1FE6F32F11D9FA48006101E7</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -855,8 +859,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -892,7 +894,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>1FE6F30911D9F7ED006101E7</string>
+				<string>1FE6F33011D9FA48006101E7</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>
@@ -902,7 +904,7 @@
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>Identifier</key>

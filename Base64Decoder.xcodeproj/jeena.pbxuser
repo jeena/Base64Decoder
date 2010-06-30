@@ -54,16 +54,6 @@
 		vrLen = 512;
 		vrLoc = 0;
 	};
-	1FE6F30111D9F7ED006101E7 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 256AC3D90F4B6AC300CF3369 /* Base64DecoderAppDelegate.m */;
-		name = "Base64DecoderAppDelegate.m: 21";
-		rLen = 0;
-		rLoc = 451;
-		rType = 0;
-		vrLen = 543;
-		vrLoc = 0;
-	};
 	1FE6F30C11D9F971006101E7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 256AC3D90F4B6AC300CF3369 /* Base64DecoderAppDelegate.m */;
@@ -74,7 +64,7 @@
 		vrLen = 676;
 		vrLoc = 0;
 	};
-	1FE6F31D11D9F9A2006101E7 /* PBXTextBookmark */ = {
+	1FE6F32911D9FA48006101E7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 256AC3D90F4B6AC300CF3369 /* Base64DecoderAppDelegate.m */;
 		name = "Base64DecoderAppDelegate.m: 22";
@@ -132,14 +122,13 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 299497887;
-			PBXWorkspaceStateSaveDate = 299497887;
+			PBXPerProjectTemplateStateSaveDate = 299597443;
+			PBXWorkspaceStateSaveDate = 299597443;
 		};
 		perUserProjectItems = {
 			1FE6F30011D9F7ED006101E7 = 1FE6F30011D9F7ED006101E7 /* PBXTextBookmark */;
-			1FE6F30111D9F7ED006101E7 = 1FE6F30111D9F7ED006101E7 /* PBXTextBookmark */;
 			1FE6F30C11D9F971006101E7 = 1FE6F30C11D9F971006101E7 /* PBXTextBookmark */;
-			1FE6F31D11D9F9A2006101E7 /* PBXTextBookmark */ = 1FE6F31D11D9F9A2006101E7 /* PBXTextBookmark */;
+			1FE6F32911D9FA48006101E7 = 1FE6F32911D9FA48006101E7 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 1FE6F2E711D9EDF7006101E7 /* Source Control */;
 		userBuildSettings = {
