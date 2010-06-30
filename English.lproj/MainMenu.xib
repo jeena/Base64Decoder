@@ -12,8 +12,8 @@
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
+			<integer value="542"/>
 			<integer value="29"/>
-			<integer value="371"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -1350,12 +1350,11 @@
 												<int key="NSCellFlags2">272629760</int>
 												<string key="NSContents"/>
 												<object class="NSFont" key="NSSupport">
-													<string key="NSName">LucidaGrande</string>
-													<double key="NSSize">13</double>
-													<int key="NSfFlags">1044</int>
+													<string key="NSName">Monaco</string>
+													<double key="NSSize">11</double>
+													<int key="NSfFlags">16</int>
 												</object>
 												<reference key="NSControlView" ref="433581748"/>
-												<bool key="NSDrawsBackground">YES</bool>
 												<object class="NSColor" key="NSBackgroundColor">
 													<int key="NSColorSpace">6</int>
 													<string key="NSCatalogName">System</string>
@@ -1373,6 +1372,10 @@
 														<int key="NSColorSpace">3</int>
 														<bytes key="NSWhite">MAA</bytes>
 													</object>
+												</object>
+												<object class="NSArray" key="NSAllowedInputLocales">
+													<bool key="EncodedWithXMLCoder">YES</bool>
+													<string>NSAllRomanInputSourcesLocaleIdentifier</string>
 												</object>
 											</object>
 										</object>
@@ -1399,30 +1402,7 @@
 														<object class="NSTextView" id="1001904721">
 															<reference key="NSNextResponder" ref="114281336"/>
 															<int key="NSvFlags">2322</int>
-															<object class="NSMutableSet" key="NSDragTypes">
-																<bool key="EncodedWithXMLCoder">YES</bool>
-																<object class="NSArray" key="set.sortedObjects">
-																	<bool key="EncodedWithXMLCoder">YES</bool>
-																	<string>Apple HTML pasteboard type</string>
-																	<string>Apple PDF pasteboard type</string>
-																	<string>Apple PICT pasteboard type</string>
-																	<string>Apple PNG pasteboard type</string>
-																	<string>Apple URL pasteboard type</string>
-																	<string>CorePasteboardFlavorType 0x6D6F6F76</string>
-																	<string>NSColor pasteboard type</string>
-																	<string>NSFilenamesPboardType</string>
-																	<string>NSStringPboardType</string>
-																	<string>NeXT Encapsulated PostScript v1.2 pasteboard type</string>
-																	<string>NeXT RTFD pasteboard type</string>
-																	<string>NeXT Rich Text Format v1.0 pasteboard type</string>
-																	<string>NeXT TIFF v4.0 pasteboard type</string>
-																	<string>NeXT font pasteboard type</string>
-																	<string>NeXT ruler pasteboard type</string>
-																	<string>WebURLsWithTitlesPboardType</string>
-																	<string>public.url</string>
-																</object>
-															</object>
-															<string key="NSFrame">{{0, 245}, {513, 133}}</string>
+															<string key="NSFrameSize">{513, 133}</string>
 															<reference key="NSSuperview" ref="114281336"/>
 															<object class="NSTextContainer" key="NSTextContainer" id="899712938">
 																<object class="NSLayoutManager" key="NSLayoutManager">
@@ -1444,7 +1424,7 @@
 																<int key="NSTCFlags">1</int>
 															</object>
 															<object class="NSTextViewSharedData" key="NSSharedData">
-																<int key="NSFlags">12263</int>
+																<int key="NSFlags">10273</int>
 																<int key="NSTextCheckingTypes">0</int>
 																<nil key="NSMarkedAttributes"/>
 																<reference key="NSBackgroundColor" ref="32784388"/>
@@ -1502,6 +1482,10 @@
 															<string key="NSMaxSize">{513, 1e+07}</string>
 															<string key="NSMinize">{223, 133}</string>
 															<nil key="NSDelegate"/>
+															<object class="NSArray" key="NSAllowedInputLocales">
+																<bool key="EncodedWithXMLCoder">YES</bool>
+																<string>NSAllRomanInputSourcesLocaleIdentifier</string>
+															</object>
 														</object>
 													</object>
 													<string key="NSFrame">{{1, 1}, {513, 378}}</string>

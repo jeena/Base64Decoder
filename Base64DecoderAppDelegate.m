@@ -20,7 +20,8 @@
 - (IBAction)decode:(id)sender {
 	NSData* data = [NSData dataFromBase64String:[input stringValue]];
 	NSString *string = [[NSString alloc] initWithData:data encoding:NSASCIIStringEncoding];
-	[[[output textStorage] mutableString] appendString:string];
+	[[[output textStorage] mutableString] setString:string];
+	[output setFont:[NSFont fontWithName:@"Monaco" size:11]];
 }
 
 @end
